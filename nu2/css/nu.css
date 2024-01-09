@@ -1,0 +1,133 @@
+body
+{
+    overflow-x: hidden;
+    background-color: #212121;
+    font-family: sans-serif;
+    
+}
+h1{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+#main_menu{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+#main_menu li{
+    list-style: none;
+    margin-left: 20px;
+}
+#main_menu li a{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 20px;
+   
+}
+#main_menu li a:hover{
+    background: #fff;
+    color: #212121;
+}
+
+video{
+    width: 1500px;
+    height: 1000px;
+    
+}
+h2{
+    font-size: 5em;
+    margin-bottom: px;
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 20px;
+    display: flex;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+p{
+    font-size: lem;
+    color: #fff;
+    margin-left: 20px;
+}
+img{
+    width: 400px;
+    height: 550px;
+    max-width: 100%;
+        height: auto;
+        border-radius: 4px;
+        margin-right: 20px;
+}
+#a01{
+    display: block;
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+h3{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    color: #333;
+    margin-top: 0;
+}
+#a2{
+    width: 1920px;
+    height: 1080px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#ifw{
+    margin-top: auto;
+    margin-left: 600px;
+    margin-right: 20px;
+    display: flex; 
+    
+    
+}
+#ifw img{
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    align-items: center;
+}
+#yji2 {
+    width: 200em;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#c13{
+    margin-left: auto;
+    margin-right: auto;
+}
+#yji3{
+    width: 200em;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#yji4{
+    width: 200em;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#注意{
+    width: 200em;
+    height: auto;
+    margin-left: auto;
+    margin-right: 5em;
+}
